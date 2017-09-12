@@ -67,4 +67,4 @@ Problems identified are:
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/SriniVishnu/Data2decInfoseek/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SriniVishnu/DataEntryAnalysis/blob/master/LICENSE) file for details
