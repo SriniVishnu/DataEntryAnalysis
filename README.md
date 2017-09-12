@@ -4,16 +4,16 @@
 Data Entry Analysis
 
 ### LIST OF DATA FILES IN THE DIRECTORY
-1. [POND2010]()
-2. [ZOOPTEMP]()
-3. [ZOOPTEMP-MAIN]()
-
+1. [POND2010](https://github.com/SriniVishnu/DataEntryAnalysis/blob/master/pond2010.xlsx)
+2. [ZOOPTEMP](https://github.com/SriniVishnu/DataEntryAnalysis/blob/master/zoop%20-%20temp-main.xlsx)
+3. [ZOOPTEMP-MAIN](https://github.com/SriniVishnu/DataEntryAnalysis/blob/master/zoop%20-%20temp.xlsx)
+4. [README.md](https://github.com/SriniVishnu/DataEntryAnalysis/blob/master/README.md)
 
 ### FILES NEWLY ADDED
-1. [POND2010]()
-2. [ZOOPTEMP]()
-3. [ZOOPTEMP-MAIN]()
-4. [Data Entry Analysis.md]()   
+1. [POND2010](https://github.com/SriniVishnu/DataEntryAnalysis/blob/master/pond2010.xlsx)
+2. [ZOOPTEMP](https://github.com/SriniVishnu/DataEntryAnalysis/blob/master/zoop%20-%20temp-main.xlsx)
+3. [ZOOPTEMP-MAIN](https://github.com/SriniVishnu/DataEntryAnalysis/blob/master/zoop%20-%20temp.xlsx)
+4. [README.md](https://github.com/SriniVishnu/DataEntryAnalysis/blob/master/README.md)   
 
 Note: All files are newly added.
 
@@ -65,3 +65,6 @@ Problems identified are:
 |           |      |             |                     |                   |            |               |         |
 |           |      |             |                     |                   |            |               |         |
 
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SriniVishnu/Data2decInfoseek/blob/master/LICENSE) file for details
