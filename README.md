@@ -4,21 +4,21 @@
 Data Entry Analysis
 
 ### LIST OF DATA FILES IN THE DIRECTORY
-1. [POND2010](https://github.com/SriniVishnu/DataEntryAnalysis/blob/master/pond2010.xlsx)
-2. [ZOOPTEMP](https://github.com/SriniVishnu/DataEntryAnalysis/blob/master/zoop%20-%20temp-main.xlsx)
-3. [ZOOPTEMP-MAIN](https://github.com/SriniVishnu/DataEntryAnalysis/blob/master/zoop%20-%20temp.xlsx)
-4. [README.md](https://github.com/SriniVishnu/DataEntryAnalysis/blob/master/README.md)
+1. POND2010
+2. ZOOPTEMP
+3. ZOOPTEMP-MAIN
+4. README.md
 
 ### FILES NEWLY ADDED
-1. [POND2010](https://github.com/SriniVishnu/DataEntryAnalysis/blob/master/pond2010.xlsx)
-2. [ZOOPTEMP](https://github.com/SriniVishnu/DataEntryAnalysis/blob/master/zoop%20-%20temp-main.xlsx)
-3. [ZOOPTEMP-MAIN](https://github.com/SriniVishnu/DataEntryAnalysis/blob/master/zoop%20-%20temp.xlsx)
-4. [README.md](https://github.com/SriniVishnu/DataEntryAnalysis/blob/master/README.md)   
+1. POND2010
+2. ZOOPTEMP
+3. ZOOPTEMP-MAIN
+4. README.md
 
 Note: All files are newly added.
 
 ### LAST MODIFIED
-* Author/Contributor: Srinivasa Keerthy Vishnubhotla  
+* Author: Srinivasa Keerthy Vishnubhotla  
 * Date and Time: 09/12/17 11:59 AM
 
 ### Problem Statement
@@ -52,19 +52,19 @@ Problems identified are:
 
 ### TABLES
 
-**Table A: Chippo Table** 
+**Table 1: Chippo** 
 
-| Timestamp | D/N  | Depth(mtrs) | Density (g/cm3)     | Colony Size(mtrs) | Chrophyl A | Temp(celcius) | Station |
-|----------:|------|-------------|---------------------|-------------------|------------|---------------|---------|
-|           |      |             |                     |                   |            |               |         |
-|           |      |             |                     |                   |            |               |         |
+| Timestamp | Day/Night  | Depth(mtrs) | Density (g/cm3)     | Colony Size(mtrs) | Chrophyl A | Temp(celsius) | Station |
+|----------:|------------|-------------|---------------------|-------------------|------------|---------------|---------|
+|           |            |             |                     |                   |            |               |         |
+|           |            |             |                     |                   |            |               |         |
 
-**Table B: Cuni Table**  
+**Table 2: Cuni**  
 
-| Timestamp | D/N  | Depth(mtrs) | Density (g/cm3)     | Colony Size(mtrs) | Chrophyl A | Temp(celcius) | Station |
-|----------:|------|-------------|---------------------|-------------------|------------|---------------|---------|
-|           |      |             |                     |                   |            |               |         |
-|           |      |             |                     |                   |            |               |         |
+| Timestamp | Day/Night  | Depth(mtrs) | Density (g/cm3)     | Colony Size(mtrs) | Chrophyl A | Temp(celsius) | Station |
+|----------:|------------|-------------|---------------------|-------------------|------------|---------------|---------|
+|           |            |             |                     |                   |            |               |         |
+|           |            |             |                     |                   |            |               |         |
 
 ### License
 
