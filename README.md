@@ -54,14 +54,14 @@ Problems identified are:
 
 **Table A: Chippo Table** 
 
-| Timestamp | D/N  | Depth(mtrs) | Density (number/ML) | Colony Size(mtrs) | Chrophyl A | Temp(celcius) | Station |
+| Timestamp | D/N  | Depth(mtrs) | Density (g/cm3)     | Colony Size(mtrs) | Chrophyl A | Temp(celcius) | Station |
 |----------:|------|-------------|---------------------|-------------------|------------|---------------|---------|
 |           |      |             |                     |                   |            |               |         |
 |           |      |             |                     |                   |            |               |         |
 
 **Table B: Cuni Table**  
 
-| Timestamp | D/N  | Depth(mtrs) | Density (number/ML) | Colony Size(mtrs) | Chrophyl A | Temp(celcius) | Station |
+| Timestamp | D/N  | Depth(mtrs) | Density (g/cm3)     | Colony Size(mtrs) | Chrophyl A | Temp(celcius) | Station |
 |----------:|------|-------------|---------------------|-------------------|------------|---------------|---------|
 |           |      |             |                     |                   |            |               |         |
 |           |      |             |                     |                   |            |               |         |
