@@ -52,7 +52,8 @@ Problems identified are:
 
 ### TABLES
 
-**Table A: Chippo Table**  
+**Table A: Chippo Table** 
+
 | Timestamp | D/N  | Depth(mtrs) | Density (number/ML) | Colony Size(mtrs) | Chrophyl A | Temp(celcius) | Station |
 |----------:|------|-------------|---------------------|-------------------|------------|---------------|---------|
 |           |      |             |                     |                   |            |               |         |
