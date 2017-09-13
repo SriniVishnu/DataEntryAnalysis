@@ -34,7 +34,7 @@ Problems identified are:
 3. Colony size are in decimal form. Ceil function must be put on them.
 4. No where it is mentioned what the Red and yellow highlights meant.
 5. There is no units mentioned for Temperature, Depth, Density, Colony diametre.
-6. No Yellow book map details for section B.
+6. No Yellow book map details for station B.
 7. zoop-temp.xlsx and zoop-temp-main.xlsx  and pond2010.xlsx has same meta data. They can be combined to eliminate the data redundancy.
 8. More details can be given in data dictionary. For example, no where it is mentioned what the column "z" meant. Columns can be more meaningful.
 
@@ -46,7 +46,7 @@ Problems identified are:
 3. Colony size should have integers rather than decimals. 
 4. Significance of Red and yellow higlights  should be metioned in data dictionary.
 5. Beside every possible column, mention its units of measurement..
-7. Include an Yellow book map for Section B data.
+7. Include an Yellow book map for Station B data.
 8. Name the columns with more meaningful names or column meaning must be included in data dictionary.
 9. There is no need of seperate file for each year. There can just be two files. One for Cuni and one for Chippo. Table structure is given below.
 
